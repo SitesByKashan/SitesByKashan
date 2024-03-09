@@ -29,7 +29,7 @@
 
 📷 Instagram : https://www.instagram.com/sites_by_kashan/
  
-# 💻 Tech Stack
+ 💻 Tech Stack
 
 <table width="100">
 <tr>
@@ -83,6 +83,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+ Show some ❤️ by starring some of the repositories!
 
 </div>
