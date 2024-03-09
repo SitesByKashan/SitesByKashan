@@ -34,10 +34,10 @@
 <table width="100">
 <tr>
 	 <td align='center' width="200">
-        <img src="https://storage.googleapis.com/cms-storage-bucket/4cdf1c5482cd30174cfe.png" width="80">
+        <img src="https://storage.googleapis.com/cms-storage-bucket/4cdf1c5482cd30174cfe.png" width="100">
     </td>
 	 <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-ar21.svg" width="80">
+        <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" width="80">
     </td>
 	 <td align='center' width="200">
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
