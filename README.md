@@ -37,17 +37,17 @@
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="50">
     </td>
 	 <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="50">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="60">
     </td>
 	 <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="80">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="60">
     </td>
     <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
+        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="60">
     </td>
 
   <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="60">
     </td> 
 </tr>
  
