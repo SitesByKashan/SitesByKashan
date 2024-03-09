@@ -70,10 +70,10 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src= "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"  width="100">
+        <img src= "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"  width="80">
     </td>
     <td align='center'>
-        <img src="https://e7.pngegg.com/pngimages/105/663/png-clipart-firebase-cloud-messaging-mobile-backend-as-a-service-software-developer-android-angle-text-thumbnail.png" width="100">
+        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-built_black.svg" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png" width="100">
