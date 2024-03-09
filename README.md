@@ -70,13 +70,13 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://en.m.wikipedia.org/wiki/File:MongoDB_Logo.svg#/media/File%3AMongodb.png"  width="90">
+        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"  width="100">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" width="80">
+        <img src="https://e7.pngegg.com/pngimages/105/663/png-clipart-firebase-cloud-messaging-mobile-backend-as-a-service-software-developer-android-angle-text-thumbnail.png" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="80">
+        <img src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png" width="100">
     </td>
      <td align='center'>
         <img src="https://media.licdn.com/dms/image/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_720_1280/0/1696923705582?e=2147483647&v=beta&t=3rJWtbIEMRibcRShRkGXoTrrxG54b3vDGIPqQZRX9rw">
