@@ -85,7 +85,23 @@
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" width="80">
     </td>
 </tr>
- 
+ <tr>
+    <td align='center' width="200" height="150">
+        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png"  width="80">
+    </td>
+    <td align='center' width="200">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" width="80">
+    </td>
+<!--  <td align='center' width="200">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" width="80">
+    </td>
+     <td align='center' width="200">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="80">
+    </td>
+	 <td align='center' width="200">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" width="80">
+    </td> -->
+</tr>
 
     
 </table>
