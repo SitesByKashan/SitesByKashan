@@ -27,7 +27,7 @@
 
 😄 Pronouns: He/His
 
-## 🌐 Socials
+# 🌐 Socials
 
 📧 sitesbykashan@gmail.com
 
