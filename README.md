@@ -33,35 +33,35 @@
 
 <table width="100">
 <tr>
-	 <td align='center' width="200" height="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="50">
+	 <td align='center' width="200" height="150">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="60">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="60">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="80">
     </td>
     <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="60">
+        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
 
   <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
     </td> 
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="90">
+    <td align='center' width="200" height="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
-     <td align='center'>
+     <td align='center' width="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
@@ -69,16 +69,16 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="30">
+    <td align='center' width="200" height="150">
+        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="80">
     </td>
-    <td align='center'>
-        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="50">
+    <td align='center' width="200">
+        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="80">
     </td>
  <td align='center' width="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" width="80">
     </td>
-     <td align='center'>
+     <td align='center' width="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
