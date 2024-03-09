@@ -70,7 +70,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="80">
+        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="60">
     </td>
     <td align='center'>
         <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="80">
