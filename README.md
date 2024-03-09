@@ -34,7 +34,7 @@
 <table width="100">
 <tr>
 	 <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-ar21.svg" width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" width="80">
     </td>
 	 <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-ar21.svg" width="80">
