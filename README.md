@@ -70,7 +70,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"  width="100">
+        <img src= "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"  width="100">
     </td>
     <td align='center'>
         <img src="https://e7.pngegg.com/pngimages/105/663/png-clipart-firebase-cloud-messaging-mobile-backend-as-a-service-software-developer-android-angle-text-thumbnail.png" width="100">
