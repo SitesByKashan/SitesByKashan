@@ -21,13 +21,13 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 sitesbykashan@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://sitesbykashan.netlify.app/
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://www.linkedin.com/in/kashan-malik-47374422a/
 
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Instagram : https://www.instagram.com/sites_by_kashan/
  
 <h2>Tech Stack</h2>
 
