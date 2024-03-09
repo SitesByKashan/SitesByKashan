@@ -87,25 +87,17 @@
 </tr>
  <tr>
     <td align='center' width="200" height="150">
-        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png"  width="80">
+        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png"  width="60">
     </td>
     <td align='center' width="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" width="80">
     </td>
-<!--  <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" width="80">
-    </td>
-     <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="80">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" width="80">
-    </td> -->
-</tr>
-
-    
+</tr>    
 </table>
 </p>
+
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kashan-malik-47374422a/"><img src="https://img.shields.io/badge/-Kashan%20Malik-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sitesbykashan@gmail.com"><img src="https://img.shields.io/badge/-sitesbykashan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -115,7 +107,5 @@
 <br>
 
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
