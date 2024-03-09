@@ -4,22 +4,30 @@
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer(Flutter);GenAI+Chatbot+Developer;Full+Stack+Web+Developer;NLP+and+Web+Developer;Mern+Stack+Web+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
 	
-👨‍💻 Lead NLP Developer at HandyHelps
-
-🔥 NLP & VUI Consultant and Web Developer 
+🔥 Flutter Mobile App Developer
+	
+🔥 NLP and Web Developer 
 	
 💰 RISING TALENT at UPWORK ✅
 
-💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
-	
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
+💸 SELLER of FLUTTER MOBILE APP on Fiverr
 
-✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
+💸 SELLER of FULL-STACK WEB on Fiverr
+
+💸 SELLER of DIALOGFLOW on Fiverr
+	
+📢 Core Team Member of GOVERNOR INITIATIVE GEN-AI 2024-25 | Governor House
+
+✨ Favorite Tech: Flutter, Dart, Dialogflow, React, Next.js, Typescript.
+
+💬 Ask me about Flutter or any tech-related stuff.
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
+
+😄 Pronouns: He/His
+
+## 🌐 Socials
 
 📧 sitesbykashan@gmail.com
 
@@ -28,6 +36,8 @@
 💼 LinkedIn: https://www.linkedin.com/in/kashan-malik-47374422a/
 
 📷 Instagram : https://www.instagram.com/sites_by_kashan/
+
+
  
 # 💻 Tech Stack
 
