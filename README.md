@@ -33,7 +33,7 @@
 
 <table width="100">
 <tr>
-	 <td align='center' width="200" height="400">
+	 <td align='center' width="200" height="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="50">
     </td>
 	 <td align='center' width="200">
