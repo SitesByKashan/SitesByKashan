@@ -29,7 +29,7 @@
 
 📷 Instagram : https://www.instagram.com/sites_by_kashan/
  
-<h2>Tech Stack</h2>
+# 💻 Tech Stack
 
 <table width="100">
 <tr>
