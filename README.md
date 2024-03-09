@@ -79,10 +79,10 @@
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" width="80">
     </td>
      <td align='center'>
-        <img src="https://media.licdn.com/dms/image/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_720_1280/0/1696923705582?e=2147483647&v=beta&t=3rJWtbIEMRibcRShRkGXoTrrxG54b3vDGIPqQZRX9rw">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" width="80">
     </td>
 </tr>
  
