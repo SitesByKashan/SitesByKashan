@@ -34,10 +34,10 @@
 <table width="100">
 <tr>
 	 <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="60">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="50">
     </td>
 	 <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="80">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="50">
     </td>
 	 <td align='center' width="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="80">
@@ -70,10 +70,10 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="20">
+        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="30">
     </td>
     <td align='center'>
-        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="40">
+        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="50">
     </td>
  <td align='center' width="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" width="80">
