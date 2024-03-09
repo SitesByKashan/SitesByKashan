@@ -34,13 +34,13 @@
 <table width="100">
 <tr>
 	 <td align='center' width="200">
-        <img src="https://storage.googleapis.com/cms-storage-bucket/4cdf1c5482cd30174cfe.png" width="100">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
-        <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" width="80">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="80">
     </td>
     <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
@@ -62,7 +62,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://media.licdn.com/dms/image/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_720_1280/0/1696923705582?e=2147483647&v=beta&t=3rJWtbIEMRibcRShRkGXoTrrxG54b3vDGIPqQZRX9rw">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" width="80">
     </td>
 	 <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
