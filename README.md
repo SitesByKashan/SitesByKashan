@@ -62,7 +62,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
+        <img src="https://media.licdn.com/dms/image/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_720_1280/0/1696923705582?e=2147483647&v=beta&t=3rJWtbIEMRibcRShRkGXoTrrxG54b3vDGIPqQZRX9rw">
     </td>
 	 <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
