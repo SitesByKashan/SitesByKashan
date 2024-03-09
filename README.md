@@ -73,10 +73,10 @@
         <img src= "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"  width="80">
     </td>
     <td align='center'>
-        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-built_black.svg" width="100">
+        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png" width="100">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" width="100">
     </td>
      <td align='center'>
         <img src="https://media.licdn.com/dms/image/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_720_1280/0/1696923705582?e=2147483647&v=beta&t=3rJWtbIEMRibcRShRkGXoTrrxG54b3vDGIPqQZRX9rw">
