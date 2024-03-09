@@ -34,7 +34,7 @@
 <table width="100">
 <tr>
 	 <td align='center' width="200">
-        <img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" width="80">
+        <img src="https://storage.googleapis.com/cms-storage-bucket/4cdf1c5482cd30174cfe.png" width="80">
     </td>
 	 <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-ar21.svg" width="80">
@@ -53,7 +53,7 @@
  
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="90">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
