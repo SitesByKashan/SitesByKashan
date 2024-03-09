@@ -70,10 +70,10 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="60">
+        <img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png"  width="40">
     </td>
     <td align='center'>
-        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="80">
+        <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" width="60">
     </td>
  <td align='center' width="200">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" width="80">
